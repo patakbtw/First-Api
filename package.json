@@ -1,0 +1,22 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "lmao who's even gonna look here",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patakbtw/First-Api.git"
+  },
+  "author": "patak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patakbtw/First-Api/issues"
+  },
+  "homepage": "https://github.com/patakbtw/First-Api#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
